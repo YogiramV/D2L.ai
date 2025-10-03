@@ -1,0 +1,17 @@
+---------------------------Introduction-----------------------------------
+- In Machine learning, the learning is the process by which we discover the right setting of the knobs for coercing the desired behavior from our model.
+- Key components: Data, Model, Objective function(or Loss function), Optmization Algorithms.
+- Data: Garbage in, Garbage out.
+- ML kinds
+    - Supervised Learning
+        - Regression (How many?)
+        - Classification (Which one?)
+        - Tagging
+        - Search
+        - Sequence Learning
+    - Unsupervised and Self-Supervised Learning
+        - Clustering
+        - Principal Component Analysis
+    - Offline learning
+    - Reinforcement learning
+- Intro to deep learning.
